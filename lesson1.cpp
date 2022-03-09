@@ -22,3 +22,18 @@ int main()
     cout << newVar2 << endl;
     return 0;
 }
+
+/*
+if(){}
+else if(){}
+else if funcion write like that
+
+cout <<;
+used for give out data
+
+cin >> ;
+used for take data
+
+ cout << << endl;
+ endl used for make new line
+*/
