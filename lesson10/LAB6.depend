@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649235915 source:c:\users\ogrenci\documents\c++\lab6\main.cpp
+	<iostream>
+	<vector>
+	"Circle.h"
+
+1649234951 source:c:\users\ogrenci\documents\c++\lab6\circle.cpp
+	"Circle.h"
+
+1649234560 c:\users\ogrenci\documents\c++\lab6\circle.h
+
